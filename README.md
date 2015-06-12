@@ -20,7 +20,7 @@ Then open the resulting output.pdf in Preview.app and start searching for some w
 
 ### Shell Script Application
 
-Or, just use .app in this repo by [downloading here](https://github.com/dpinney/ocrmypdf/archive/master.zip). The source .sh is also attached. I used Platypus to turn the shell script in to an app.
+Or, just use .app in this repo by [downloading here](https://github.com/dpinney/ocrmypdf/archive/master.zip). You still need to follow the homebrew steps above to get your copy of gs and tesseract. The source .sh is also attached. I used Platypus to turn the shell script in to an app.
 
 ### Thanks
 
