@@ -24,4 +24,4 @@ Or, just use .app in this repo by [downloading here](https://github.com/dpinney/
 
 ### Thanks
 
-I was inspired by [ryanfb's instructions](https://ryanfb.github.io/etc/2014/11/13/command_line_ocr_on_mac_os_x.html) and this [discussion on stackflow](http://stackoverflow.com/questions/221455/ghostscript-pdf-tiff-conversion-is-awful-for-me-people-rave-about-it-i-alon) for how to get ghostscript to give pretty output.
+I was inspired by [ryanfb's instructions](https://ryanfb.github.io/etc/2014/11/13/command_line_ocr_on_mac_os_x.html) and this [discussion on stackflow](http://stackoverflow.com/questions/221455/ghostscript-pdf-tiff-conversion-is-awful-for-me-people-rave-about-it-i-alon) for how to get ghostscript to give pretty output. And I used [Platypus.app](http://www.sveinbjorn.org/platypus), which is awesome.
