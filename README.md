@@ -13,7 +13,7 @@
 ```brew install --devel tesseract```
 4. Now, let's say you scanned a magazine to input.pdf. Make a tiff first:
 ```gs -sDEVICE=tiff32nc -r300 -o mag.tif input.pdf```
-5. Then OCR them:
+5. Then OCR it:
 ```tesseract mag.tif output pdf```
 
 Then open the resulting output.pdf in Preview.app and start searching for some words. They should highlight in the same location they were in the images. Tada!
